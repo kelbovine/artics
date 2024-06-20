@@ -1,0 +1,229 @@
+[Adjetivos:
+  {"24201", "Adjetivos 1"}
+]
+[Alimentos:
+  {"32", "Alimentos 1"}
+  {"11436440", "Alimentos 2"}
+  {"11436448", "Alimentos 3"}
+  {"29617", "Alimentos 4"}
+  {"11436456", "Alimentos 5"}
+  {"11436462", "Alimentos 6"}
+  {"11436468", "Alimentos 7"}
+  {"11436470", "Alimentos 8"}
+  {"11436483", "Alimentos 9"}
+  {"11436488", "Alimentos 10"}
+  {"1482291", "Alimentos 34"}
+  {"1495597", "Alimentos 39"}
+  {"11436741", "Alimentos 43"}
+  {"11436744", "Alimentos 44"}
+  {"8871018", "Alimentos 45"}
+  {"8871024", "Alimentos 46"}
+  {"10583457", "Alimentos 47"}
+  {"10583459", "Alimentos 48"}
+  {"15352976", "Alimentos 49"}
+  {"15352985", "Alimentos 50"}
+  {"15392408", "Alimentos 61"}
+  {"15392415", "Alimentos 62"}
+  {"15392529", "Alimentos 63"}
+  {"15392541", "Alimentos 64"}
+  {"19472533", "Alimentos 85"}
+  {"19472540", "Alimentos 86"}
+  {"19472552", "Alimentos 87"}
+  {"19472562", "Alimentos 88"}
+  {"19474604", "Alimentos 101"}
+  {"19474618", "Alimentos 102"}
+  {"19474632", "Alimentos 103"}
+  {"19474640", "Alimentos 104"}
+]
+[Animais:
+  {"33", "Animais 1"}
+  {"11436131", "Animais 2"}
+  {"11436139", "Animais 3"}
+  {"11436146", "Animais 4"}
+  {"11436155", "Animais 5"}
+  {"61314", "Animais 6"}
+  {"11436159", "Animais 7"}
+  {"11436158", "Animais 8"}
+  {"11436189", "Animais 12"}
+  {"11436193", "Animais 13"}
+  {"1383125", "Animais 33"}
+  {"1482285", "Animais 34"}
+  {"11436784", "Animais 43"}
+  {"8275850", "Animais 44"}
+  {"8871009", "Animais 45"}
+  {"11436796", "Animais 46"}
+  {"10583449", "Animais 47"}
+  {"10583451", "Animais 48"}
+  {"15352954", "Animais 49"}
+  {"15352967", "Animais 50"}
+]
+[Avançado:
+  {"36", "Avançado 1"}
+  {"37", "Avançado 2"}
+  {"38", "Avançado 3"}
+]
+[Bandeiras:
+  {"53", "Bandeiras 1"}
+  {"32829", "Bandeiras 2"}
+]
+[Caricaturas:
+  {"31", "Caricaturas"}
+]
+[Desenho:
+  {"34", "Desenho Animado 1"}
+  {"35", "Desenho Animado 2"}
+  {"1316875", "Desenho Animado 7"}
+  {"15146618", "Desenho Animado 10"}
+  {"15269596", "Desenho Animado 12"}
+  {"15269602", "Desenho Animado 13"}
+  {"15352879", "Desenho Animado 15"}
+  {"15352887", "Desenho Animado 16"}
+]
+[Espanhol:
+  {"111150", "Espanhol 1"}
+]
+[Filmes:
+  {"20", "Filmes 1"}
+  {"21", "Filmes 2"}
+  {"1316871", "Filmes 7"}
+  {"1483601", "Filmes 14"}
+]
+[GOT:
+  {"5247712", "GOT 1"}
+  {"5247714", "GOT 2"}
+]
+[Games:
+  {"55", "Games"}
+]
+[Geral:
+  {"38394720", "Geral 1"}
+  {"38394725", "Geral 2"}
+  {"3", "Geral 3"}
+  {"38394729", "Geral 4"}
+  {"5", "Geral 5"}
+  {"38394732", "Geral 6"}
+  {"46", "Geral 7"}
+  {"38394736", "Geral 8"}
+  {"8", "Geral 9"}
+  {"38394739", "Geral 10"}
+  {"10", "Geral 11"}
+  {"38394741", "Geral 12"}
+  {"12", "Geral 13"}
+  {"38394742", "Geral 14"}
+  {"14", "Geral 15"}
+  {"15", "Geral 16"}
+  {"47", "Geral 17"}
+  {"17", "Geral 18"}
+  {"38394745", "Geral 19"}
+  {"38394746", "Geral 20"}
+  {"44", "Geral 21"}
+  {"45", "Geral 22"}
+  {"22657", "Geral 23"}
+  {"27541", "Geral 24"}
+  {"27542", "Geral 25"}
+  {"30960", "Geral 26"}
+  {"37197", "Geral 27"}
+  {"59774", "Geral 28"}
+  {"60131", "Geral 29"}
+  {"156331", "Geral 36"}
+  {"156332", "Geral 37"}
+  {"1441917", "Geral 108"}
+  {"1482259", "Geral 117"}
+  {"1482262", "Geral 118"}
+  {"1495485", "Geral 123"}
+  {"1495493", "Geral 125"}
+  {"1495497", "Geral 126"}
+  {"1495505", "Geral 127"}
+  {"1495758", "Geral 129"}
+  {"1495822", "Geral 132"}
+  {"1495983", "Geral 133"}
+  {"1495996", "Geral 134"}
+  {"1496355", "Geral 143"}
+  {"1496372", "Geral 145"}
+  {"1496382", "Geral 146"}
+  {"19472063", "Geral 147"}
+  {"19472071", "Geral 148"}
+  {"19472077", "Geral 149"}
+  {"19472087", "Geral 150"}
+  {"19472095", "Geral 151"}
+  {"19472099", "Geral 152"}
+  {"19472106", "Geral 153"}
+  {"19472132", "Geral 154"}
+]
+[Harry:
+  {"204642", "Harry Potter 1"}
+  {"368492", "Harry Potter 2"}
+]
+[Inglês:
+  {"59", "Inglês 1"}
+]
+[Italiano:
+  {"1254112", "Italiano"}
+]
+[LoL:
+  {"5313011", "LoL 1"}
+]
+[Marvel:
+  {"3158864", "Marvel e DC 1"}
+  {"3158865", "Marvel e DC 2"}
+  {"3161447", "Marvel e DC 4"}
+]
+[Minecraft:
+  {"5312998", "Minecraft 1"}
+  {"5313084", "Minecraft 3"}
+]
+[Música:
+  {"42463", "Música 1"}
+]
+[Naruto:
+  {"204641", "Naruto 1"}
+]
+[Novelas:
+  {"361146", "Novelas 1"}
+  {"368493", "Novelas 2"}
+]
+[Objetos:
+  {"23", "Objetos 1"}
+  {"24", "Objetos 2"}
+  {"26", "Objetos 4"}
+  {"27", "Objetos 5"}
+  {"28", "Objetos 6"}
+  {"29", "Objetos 7"}
+  {"30", "Objetos 8"}
+  {"156348", "Objetos 19"}
+  {"156349", "Objetos 20"}
+  {"1323822", "Objetos 33"}
+  {"1433234", "Objetos 46"}
+  {"1441928", "Objetos 49"}
+  {"1495442", "Objetos 52"}
+  {"8275914", "Objetos 60"}
+  {"8870952", "Objetos 61"}
+  {"8870959", "Objetos 62"}
+  {"8870974", "Objetos 63"}
+  {"8870981", "Objetos 64"}
+  {"15392586", "Objetos 65"}
+  {"15392590", "Objetos 66"}
+  {"18828862", "Objetos 67"}
+  {"18828871", "Objetos 68"}
+  {"18828877", "Objetos 69"}
+  {"18828880", "Objetos 70"}
+]
+[Pokémons:
+  {"51", "Pokémons 1"}
+  {"4539464", "Pokémons 2"}
+]
+[Profissões:
+  {"180144", "Profissões 1"}
+  {"11436612", "Profissões 2"}
+  {"11436645", "Profissões 4"}
+  {"11436654", "Profissões 8"}
+  {"8141297", "Profissões 9"}
+  {"10583436", "Profissões 10"}
+]
+[Verbos:
+  {"23340", "Verbos 1"}
+  {"64453", "Verbos 2"}
+  {"64456", "Verbos 3"}
+  {"11436709", "Verbos 5"}
+  {"1442892", "Verbos 16"}
+]
